@@ -1,4 +1,5 @@
-# Reginaldolm
+# Olá Mundo, meu nome é Reginaldo, mas a maioria das pessoas me chamam de Regis, adoro tecnologia e aprender sobre ela, no momento estudo programação, e mais pra frente quero aprimorar outras habilidades envolvendo tecnologia, gosto muito de programar em Python,prefiro mais o Back-end e gostaria de seguir carreira trabalhando nessa área.
+
 
 ## Conecte-se comigo
 
